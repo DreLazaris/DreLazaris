@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DreLazaris
 - 👀 I’m interested in front-end development 
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on project where I can get my feet west as I am a newbie
+- 🌱 I’m currently learning Front-End Engineering on Codeacademy
+- 💞️ I’m looking to collaborate on project!
 - 📫 How to reach me DreLazaris@Gmail.com
 
 <!---
